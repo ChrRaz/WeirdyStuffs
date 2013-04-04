@@ -1,0 +1,21 @@
+[
+{
+  "modid": "WierdStuffs",
+  "name": "Wierdy stuffs",
+  "description": "Mooh!",
+  "version": "Piggy",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "ChrRaz"
+  ],
+  "credits": "Me, myself and my creativity",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  
+  ]
+}
+]
